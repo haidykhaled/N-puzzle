@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\Npuzzle\bin\Debug\Npuzzle.exe.config
+C:\Users\user\Desktop\Npuzzle\bin\Debug\Npuzzle.exe
+C:\Users\user\Desktop\Npuzzle\bin\Debug\Npuzzle.pdb
+C:\Users\user\Desktop\Npuzzle\obj\Debug\Npuzzle.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Npuzzle\obj\Debug\Npuzzle.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Npuzzle\obj\Debug\Npuzzle.exe
+C:\Users\user\Desktop\Npuzzle\obj\Debug\Npuzzle.pdb
+C:\Users\Future\Documents\Npuzzle\Npuzzle -(222)\bin\Debug\Npuzzle.exe.config
+C:\Users\Future\Documents\Npuzzle\Npuzzle -(222)\bin\Debug\Npuzzle.exe
+C:\Users\Future\Documents\Npuzzle\Npuzzle -(222)\bin\Debug\Npuzzle.pdb
+C:\Users\Future\Documents\Npuzzle\Npuzzle -(222)\obj\Debug\Npuzzle.csproj.CoreCompileInputs.cache
+C:\Users\Future\Documents\Npuzzle\Npuzzle -(222)\obj\Debug\Npuzzle.exe
+C:\Users\Future\Documents\Npuzzle\Npuzzle -(222)\obj\Debug\Npuzzle.pdb
